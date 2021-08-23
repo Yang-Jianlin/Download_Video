@@ -1,0 +1,6 @@
+##### download log ##### 
+0: 时间		路径		网址
+1: 2021-08-23 15:02:01  E:\python数据结构与算法\python_BB\pachong\爬取视频\videoMP4\video16297020754984825.mp4  http://v.cztvcloud.com//channel_new/zjstv_zbs/vod/2021/08/20/b74f5ba22a2a4a27b0b80674f76e3a3e/ee6debb6d8df49deb34482e78cfbd2a0_H264_1500K_MP4.mp4
+2: 2021-08-23 15:04:01  E:\python数据结构与算法\python_BB\pachong\爬取视频\videoMP4\video16297022415728889.mp4  https://dh5.cntv.qcloudcdn.com/asp/h5e/hls/1200/0303000a/3/default/661b9862df414a53acceef098755fed5/1200.m3u8
+3: 2021-08-23 15:26:37  E:\python数据结构与算法\python_BB\pachong\爬取视频\videoMP4\video1629703597240742.mp4  https://dh5.cntv.qcloudcdn.com/asp/h5e/hls/1200/0303000a/3/default/661b9862df414a53acceef098755fed5/1200.m3u8
+4: 2021-08-23 17:27:39  E:\python数据结构与算法\python_BB\pachong\爬取视频\videoMP4\video16297108477688975.mp4  http://v.cztvcloud.com//channel_new/zjstv_zbs/vod/2021/07/16/a5e2d16d8ed44088868c4aa3dff701b4/26473da3e0da4adf93db6c3264be29fc_H264_500K_MP4.mp4
